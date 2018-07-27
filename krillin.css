@@ -2,7 +2,7 @@
   margin-top: 55%;
   width: 15%;
   animation-name: flyup;
-  animation-duration: 1.25s;
+  animation-duration: 1s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   vertical-align: bottom;
@@ -20,7 +20,7 @@
   margin-top: 55%;
   width: 15%;
   animation-name: flyd;
-  animation-duration: 1.25s;
+  animation-duration: 1s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 
