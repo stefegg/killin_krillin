@@ -10,6 +10,10 @@
   opacity: 0;
 }
 
+body {
+  background-image: url('images/bg.png');
+}
+
 #frieza {
   margin-top: 35%;
   vertical-align: bottom;
